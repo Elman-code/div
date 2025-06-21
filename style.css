@@ -1,0 +1,10 @@
+div{
+    width: 28vw;
+    overflow: auto;
+    border: 1px solid;
+    float:right ;
+    padding: 10px;
+}
+img{
+    width: 150px;
+}
